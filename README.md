@@ -15,26 +15,6 @@ Welcome to the **ATM Simulator**! This Python-based console application simulate
 
 ---
 
-## ⚙️ Functionalities
-
-1. **Login**:
-   - Enter your **username** and **PIN**.
-   - Authentication checks whether the credentials are correct.
-
-2. **PIN Change**:
-   - After successful login, users can change their **PIN** by following simple steps.
-
-3. **Deposit/Withdraw**:
-   - Deposit or withdraw specific amounts, with the program updating the balance accordingly.
-
-4. **Balance Inquiry**:
-   - Check the account’s current balance at any point during the session.
-
-5. **Quit**:
-   - Exit the session and log out securely when finished.
-
----
-
 ## 🛠️ Technologies Used
 - **Python**: The application is built entirely using Python, leveraging its simplicity and versatility to create a user-friendly console-based interface.
 
